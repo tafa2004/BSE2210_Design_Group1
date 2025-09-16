@@ -8,5 +8,5 @@ Member B: Bristol shalowa 2421003
 Business analyst
 REFLECTION:
 Member c: Tafadzwa mungandaire 2420974
-culture and ops lead
+culture and ops lead.
 REFLECTION:
