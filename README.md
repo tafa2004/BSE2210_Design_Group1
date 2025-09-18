@@ -3,7 +3,11 @@ Software design, AI Intergrated designs, trends, business case, Cultural Intelli
 CONTRIBUTORS
 Member A: Amos Kabashi 2420961
 Desighn and principles lead 
-REFLECTION: Software design in 2025: Explaining design as process and artifacts, Trends(micrservice and AI-integration), application-first and principle-first. Relating and choosing the best that could fit our project (USEP)
+REFLECTION: My role focused on Software design in 2025 Explaining how software design in 2025 is adopted by emerging technologies and methodologies like AI-integrations etc including process and artifacts that jas to be pit under consideration to build a scalable application in 2025 and how well they should be applied in our current project as USEP.
+
+Trends(micrservice and AI-integration) i also focus on the trends such as the transition from monolithic to micrservice wich allows to develop application in small independent deployable services which is graduary decomposing the use of monolithic design that allows to build an application as a single tightly coupled unit.
+
+application-first and principle-first. Relating and choosing the best that could fit our project (USEP)
 
 
 Member B: Bristol Shalowa 2421003
